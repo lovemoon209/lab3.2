@@ -13,13 +13,13 @@ int main() {
   double x;
   double F;
   
-  cout << a << " a = ";
+  cout << " a = ";
   cin >> a;
-cout << b << " b = ";
+cout << " b = ";
   cin >> b;
-cout << c << " c = ";
+cout << " c = ";
 cin >> c;
-cout << x << " x = ";
+cout << "x =";
 cin >> x;
 // 1 спосіб
 if (x + c < 0 && a != 0)
